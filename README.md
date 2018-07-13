@@ -1,4 +1,5 @@
 http://24721.hosts.ma-cloud.nl/ma/bewijzenmap/proj/SMARTY/public/index.php
+Deze website MOET nog geupdate worden maar dat werkt op het moment niet.
 
 # Debriefing 
 Door Tim
